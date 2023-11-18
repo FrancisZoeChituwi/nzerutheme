@@ -1,0 +1,21 @@
+{
+  "name": "nzerutheme",
+  "displayName": "NzeruTheme",
+  "description": "the spirit of Innovation from MalNzeru",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "NzeruTheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NzeruTheme-color-theme.json"
+      }
+    ]
+  }
+}
