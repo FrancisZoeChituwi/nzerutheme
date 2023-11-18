@@ -109,7 +109,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#ff00ea"
+				"foreground": "#ff0dff"
 			}
 		},
 		{
@@ -119,7 +119,7 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#ff00ea"
+				"foreground": "#ff0dff"
 			}
 		},
 		{
@@ -135,7 +135,8 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#ff00ea"
+				"fontStyle": "bold",
+				"foreground": "#ff9df7"
 			}
 		},
 		{
@@ -166,7 +167,8 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFD700"
+				"fontStyle": "bold",
+				"foreground": "#ffb300"
 			}
 		},
 		{
@@ -175,6 +177,7 @@
 				"support.type"
 			],
 			"settings": {
+				"fontStyle": "bold italic",
 				"foreground": "#B2CCD6"
 			}
 		},
@@ -259,7 +262,8 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"fontStyle": "bold",
+				"foreground": "#ffa600"
 			}
 		},
 		{
@@ -268,6 +272,7 @@
 				"source.sass keyword.control"
 			],
 			"settings": {
+				
 				"foreground": "#00b7ff"
 			}
 		},
